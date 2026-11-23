@@ -1,4 +1,4 @@
-# ELEC-E5810 Biosignal Processing — Lab Work
+# Biosignal Processing — Lab Work
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-Live_Scripts-0076A8?logo=mathworks&logoColor=white)
 ![Topic](https://img.shields.io/badge/Topic-Biosignal_Processing-orange)
